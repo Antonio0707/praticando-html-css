@@ -1,0 +1,53 @@
+@charset 'UTF-8';
+@import url('https://fonts.googleapis.com/css2?family=Boldonse&family=Sigmar&display=swap');
+
+body{
+    background-color: #b3b3b3;
+    font-family: "Sigmar", sans-serif Arial, Helvetica ;
+}
+
+nav > a:hover{
+    background-color: black;
+    color: #ffffff;
+    border-radius: 6px;
+}
+
+nav > a{
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+}
+
+nav{
+    background-color: beige;
+    padding: 5px;
+    text-align: center;
+}
+
+h1, h2{
+    width: 500px;
+    border-radius: 10px;
+}
+
+h1#titulogeral{
+    text-align: center;
+    color: white;
+    background-color: rgb(211, 211, 169);
+    width: auto;
+}
+
+h1{
+    background-color: bisque;
+    padding: 3px;
+}
+
+h2{
+    background-color: bisque;
+    padding: 3px;
+}
+
+footer {
+    background-color: beige;
+    padding: 5px;
+    text-align: center;
+}
